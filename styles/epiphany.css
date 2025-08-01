@@ -1,0 +1,49 @@
+/* Add this to your CSS file */
+.hand-cursor {
+    display: inline-block;
+    background-image: none;
+    cursor: pointer; /* Changes the cursor to a hand pointer on hover */
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    overflow: visible;
+    padding: 0.618em 1em;
+    text-rendering: auto;
+    vertical-align: middle;
+    left: auto;
+    float: left;
+    text-align: center;
+    box-shadow: none;
+    text-shadow: none;
+    transition: 0.4s ease-in-out;
+}
+
+/* Optional: Additional styles for hover effect */
+.hand-cursor:hover {
+    background-color: #2e2e2e !important;/* Example: Change background color on hover */
+     border-color: #2e2e2e !important;
+    color: #fff !important; /* Example: Change text color on hover */
+}
+    
+
+.epiphany-button {
+    background-color: #fa6161;
+    font-weight: 400;
+    border: 1px solid #fa6161;
+    color: #fff !important;
+    opacity: 1 !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+}
+.epiphany-button {
+    background-color: #fa6161;
+    font-weight: 400;
+    border: 1px solid #fa6161;
+    color: #fff !important;
+    opacity: 1 !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+}
